@@ -66,6 +66,6 @@ double resultado = temp.convertirCelsius(72.9, "f"); // convierte 72.9 grados Ce
 
 # Colaboradores
 
-[Álvarez Martínez Alessandro Santiago] (https://github.com/usuario2)
+[Álvarez Martínez Alessandro Santiago] (https://github.com/AleSantiagoAM)
 
-[Velasco Velasco Heber] (https://github.com/usuario1)
+[Velasco Velasco Heber] (https://github.com/EverV774)
