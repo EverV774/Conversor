@@ -38,18 +38,18 @@ double resultado = Masa.convertirKg(1000, "mg"); // Esto convierte 1000 kg a mil
 
 1. Descarga el archivo `.jar` desde este repositorio.
 2. Abre tu proyecto en tu entorno de desarrollo (NetBeans, Eclipse, IntelliJ, BlueJ, etc.).
-3. Agrega el '.jar' a tu proyecto:
-   - Eclipse / IntelliJ**: Click derecho en el proyecto -> Build Path -> Add External JARs...
-   - NetBeans**: Boton derecho sobre Libraries -> Add JAR/Folder
-   - BlueJ**: Project -> Use Library -> Agrega el archivo '.jar'
+3. Agrega el `.jar` a tu proyecto:
+   - `Eclipse / IntelliJ`: Click derecho en el proyecto -> Build Path -> Add External JARs...
+   - `NetBeans`: Boton derecho sobre Libraries -> Add JAR/Folder
+   - `BlueJ`: Project -> Use Library -> Agrega el archivo '.jar'
 4. Ya puedes importar y usar las clases de la librería con líneas como:
 
-//// java
+`//// java
 import Convertidor.*; // para importar todas la clase o el nombre de alguna clase para importar uno en especifico.
 
 Temperatura temp = new Temperatura();
 
-double resultado = temp.convertirCelsius(72.9, "f"); // convierte 72.9 grados Celsius a Fahrenheit
+double resultado = temp.convertirCelsius(72.9, "f"); // convierte 72.9 grados Celsius a Fahrenheit`
 
 
 # Capturas del JFrame mostrando el uso
