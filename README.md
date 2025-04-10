@@ -4,17 +4,17 @@ Esta librería en Java permite convertir entre distintas unidades de medida medi
 
 # Clases disponibles
 
-- Masa: Convierte unidades entre miligramos, decigramos, centigramos, gramos, decagramos, hectogramos,  kilogramos, toneladas.
-- Volumen: Convierte unidades entre kilometro cubico, hectometro cubico, decametro cubico, metro cubico, centimetro cubico, milimetro cubico, etc.
-- Área: Convierte unidades entre metros cuadrados, centimetros cuadrados, milimetros cuadrados, kilometros cuadrados, hectareas cuadrados, etc.
-- Líquido: Converte unidades entre unidades líquidas (litro, mililitro, decilitro, centilitro, decalitro, etc).
-- Energía: Converte unidades entre unidades de energia (joules, calorias, kilocalorias, etc).
-- Fuerza: Converte unidades entre unidades de fuerza (Dyne, libra-fuerza, kilogramo-fuerza, newton, etc).
-- Velocidad: Converte unidades entre unidades de velocidad (metros/segundos, millas/horas, pies/segundos, etc).
-- Distancia: Converte unidades entre unidades de distancia (metros, kilometros, hectometros, decametros, decimetros, centimetros, etc).
-- Grados: Converte unidades entre unidades de grados (grados, radianes, grados con minutos y segundos, etc).
-- Temperatura: CConverte unidades entre unidades de temperatura (fahrenheit, celsius kelvin).
-- Tiempo: Converte unidades entre unidades de energia (segundos, minutos, horas, dias, semanas, meses, años, etc).
+- `Masa`: Convierte unidades entre miligramos, decigramos, centigramos, gramos, decagramos, hectogramos,  kilogramos, toneladas.
+- `Volumen`: Convierte unidades entre kilometro cubico, hectometro cubico, decametro cubico, metro cubico, centimetro cubico, milimetro cubico, etc.
+- `Área`: Convierte unidades entre metros cuadrados, centimetros cuadrados, milimetros cuadrados, kilometros cuadrados, hectareas cuadrados, etc.
+- `Líquido`: Converte unidades entre unidades líquidas (litro, mililitro, decilitro, centilitro, decalitro, etc).
+- `Energía`: Converte unidades entre unidades de energia (joules, calorias, kilocalorias, etc).
+- `Fuerza`: Converte unidades entre unidades de fuerza (Dyne, libra-fuerza, kilogramo-fuerza, newton, etc).
+- `Velocidad`: Converte unidades entre unidades de velocidad (metros/segundos, millas/horas, pies/segundos, etc).
+- `Distancia`: Converte unidades entre unidades de distancia (metros, kilometros, hectometros, decametros, decimetros, centimetros, etc).
+- `Grados`: Converte unidades entre unidades de grados (grados, radianes, grados con minutos y segundos, etc).
+- `Temperatura`: CConverte unidades entre unidades de temperatura (fahrenheit, celsius kelvin).
+- `Tiempo`: Converte unidades entre unidades de energia (segundos, minutos, horas, dias, semanas, meses, años, etc).
 
 # Funcionamiento del código
 
