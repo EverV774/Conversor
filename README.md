@@ -20,14 +20,13 @@ Esta librería en Java permite convertir entre distintas unidades de medida medi
 
 Cada clase tiene métodos con nombres como `convertir[mas simbolo de la unidad empezando por mayuscula](valor, unidadDestino)`. 
 Estos métodos:
-- Reciben un valor double (que es el valor a comvertir) y un String con el simbolo de la unidad destino para el valor.
+- Reciben un valor double (que es el valor a convertir) y un String con el simbolo de la unidad destino para el valor.
 - Si la unidad destino no se reconoce, el método devuelve -1.
 - Si la unidad destino es válida, devuelve el un double con el valor convertido a la unidad destinado.
 
 Ejemplo:
 
 double resultado = Masa.convertirKg(1000, "mg");  // Esto convierte 1000 kg a miligramos
-
 
 ## Validaciones
 
