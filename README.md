@@ -60,6 +60,12 @@ double resultado = temp.convertirCelsius(72.9, "f"); // convierte 72.9 grados Ce
 
 ![Conversión de temperatura](imagenes/conversion_temperatura.png)
 
+![Conversion de fuerza](imagenes/conversion_fuerza.png)
+
+![Conversion de liquidos](imagenes/conversion_liquido.png)
+
+![Conversion de area](imagenes/conversion_area.png)
+
 # Enlace al video en YouTube
 
 👉 [Ver video en YouTube]([https://youtube.com/tu-video](https://www.youtube.com/watch?v=AN5hlwElR_M)
