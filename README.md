@@ -1,6 +1,6 @@
 # Libreria de conversion de unidades
 
-Esta librería en Java permite convertir entre distintas unidades de medida mediante métodos organizados en clases especializadas. Incluye una interfaz gráfica creada con `JFrame` para facilitar su uso.
+Esta librería en Java permite convertir entre distintas unidades de medida mediante métodos organizados en clases específicas. Incluye una interfaz gráfica creada con `JFrame` para facilitar su uso.
 
 # Clases disponibles
 
