@@ -24,9 +24,9 @@ Cada clase tiene métodos con nombres como "convertir[mas simbolo de la unidad e
 - Si la unidad destino es válida, devuelve el un double con el valor convertido a la unidad destinado.
 
 Ejemplo:
----
+
 double resultado = Masa.convertirKg(1000, "mg"); // Esto convierte 1000 kg a miligramos
----
+
 
 ## Validaciones
 
@@ -46,10 +46,10 @@ double resultado = Masa.convertirKg(1000, "mg"); // Esto convierte 1000 kg a mil
 
 //// java
 import Convertidor.*; // para importar todas la clase o el nombre de alguna clase para importar uno en especifico.
----
+
 Temperatura temp = new Temperatura();
 double resultado = temp.convertirCelsius(72.9, "f"); // convierte 72.9 grados Celsius a Fahrenheit
----
+
 
 # Capturas del JFrame mostrando el uso
 
@@ -61,10 +61,9 @@ double resultado = temp.convertirCelsius(72.9, "f"); // convierte 72.9 grados Ce
 
 # Enlace al video en YouTube
 
-👉 [Ver video en YouTube](https://youtube.com/tu-video
----
+👉 [Ver video en YouTube]([https://youtube.com/tu-video](https://www.youtube.com/watch?v=AN5hlwElR_M)
 
-## 👥 Colaboradores
+# Colaboradores
 
-[Alvarez Martinez Santiago Alessandro](https://github.com/usuario2)
-[Velasco Velasco Heber](https://github.com/usuario1)
+[Álvarez Martínez Alessandro Santiago] (https://github.com/usuario2)
+[Velasco Velasco Heber] (https://github.com/usuario1)
