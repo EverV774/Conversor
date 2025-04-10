@@ -18,7 +18,7 @@ Esta librería en Java permite convertir entre distintas unidades de medida medi
 
 # Funcionamiento del código
 
-Cada clase tiene métodos con nombres como "convertir[mas simbolo de la unidad empezando por mayuscula](valor, unidadDestino)". Estos métodos:
+Cada clase tiene métodos con nombres como `convertir[mas simbolo de la unidad empezando por mayuscula](valor, unidadDestino)`. Estos métodos:
 - Reciben un valor double (que es el valor a comvertir) y un String con el simbolo de la unidad destino para el valor.
 - Si la unidad destino no se reconoce, el método devuelve -1.
 - Si la unidad destino es válida, devuelve el un double con el valor convertido a la unidad destinado.
@@ -44,12 +44,12 @@ double resultado = Masa.convertirKg(1000, "mg"); // Esto convierte 1000 kg a mil
    - `BlueJ`: Project -> Use Library -> Agrega el archivo '.jar'
 4. Ya puedes importar y usar las clases de la librería con líneas como:
 
-`//// java
+//// java
 import Convertidor.*; // para importar todas la clase o el nombre de alguna clase para importar uno en especifico.
 
 Temperatura temp = new Temperatura();
 
-double resultado = temp.convertirCelsius(72.9, "f"); // convierte 72.9 grados Celsius a Fahrenheit`
+double resultado = temp.convertirCelsius(72.9, "f"); // convierte 72.9 grados Celsius a Fahrenheit
 
 
 # Capturas del JFrame mostrando el uso
