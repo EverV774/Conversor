@@ -68,7 +68,7 @@ double resultado = temp.convertirCelsius(72.9, "f"); // convierte 72.9 grados Ce
 
 # Enlace al video en YouTube
 
-👉 [Ver video en YouTube]([https://youtube.com/tu-video](https://www.youtube.com/watch?v=AN5hlwElR_M)
+👉 [Ver video en YouTube]([https://youtube.com/tu-video](https://www.youtube.com/watch?v=AN5hlwElR_M))
 
 # Colaboradores
 
