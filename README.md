@@ -30,13 +30,13 @@ double resultado = Masa.convertirKg(1000, "mg"); // Esto convierte 1000 kg a mil
 
 ## Validaciones
 
-- La unidad destinado se compara en minúsculas utilizando 'toLowerCase()' para la entrada en unidadDestino.
+- La unidad destinado se compara en minúsculas utilizando `toLowerCase()` para la entrada en unidadDestino.
 - Si el nombre de la unidad destino no coincide con las esperadas, retorna -1.
 - En algunos casos se validan valores negativos (según el tipo de unidad como la temperatura).
 
-# Instrucciones para importar el '.jar' en otro proyecto
+# Instrucciones para importar el `.jar` en otro proyecto
 
-1. Descarga el archivo '.jar' desde este repositorio.
+1. Descarga el archivo `.jar` desde este repositorio.
 2. Abre tu proyecto en tu entorno de desarrollo (NetBeans, Eclipse, IntelliJ, BlueJ, etc.).
 3. Agrega el '.jar' a tu proyecto:
    - Eclipse / IntelliJ**: Click derecho en el proyecto -> Build Path -> Add External JARs...
