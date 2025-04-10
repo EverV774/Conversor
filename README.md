@@ -25,7 +25,7 @@ Cada clase tiene métodos con nombres como `convertir[mas simbolo de la unidad e
 
 Ejemplo:
 
-double resultado = Masa.convertirKg(1000, "mg"); // Esto convierte 1000 kg a miligramos
+double resultado = Masa.convertirKg(1000, "mg");  // Esto convierte 1000 kg a miligramos
 
 
 ## Validaciones
@@ -44,11 +44,10 @@ double resultado = Masa.convertirKg(1000, "mg"); // Esto convierte 1000 kg a mil
    - `BlueJ`: Project -> Use Library -> Agrega el archivo '.jar'
 4. Ya puedes importar y usar las clases de la librería con líneas como:
 
---- java
+java:
 import Convertidor.*;  // para importar todas la clase o el nombre de alguna clase para importar uno en especifico.
 
 Temperatura temp = new Temperatura();
-
 double resultado = temp.convertirCelsius(72.9, "f");  // convierte 72.9 grados Celsius a Fahrenheit
 
 
