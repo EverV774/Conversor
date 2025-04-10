@@ -42,7 +42,7 @@ double resultado = Masa.convertirKg(1000, "mg");  // Esto convierte 1000 kg a mi
    - `Eclipse / IntelliJ`: Click derecho en el proyecto -> Build Path -> Add External JARs...
    - `NetBeans`: Boton derecho sobre Libraries -> Add JAR/Folder
    - `BlueJ`: Project -> Use Library -> Agrega el archivo '.jar'
-4. Ya puedes importar y usar las clases de la librería con líneas como:
+4. Ya puedes importar y usar las clases de la librería con líneas como
 
 java:
 import Convertidor.*;  // para importar todas la clase o el nombre de alguna clase para importar uno en especifico.
